@@ -3,11 +3,11 @@
 BETA 1
 
 FM synthesizers
-1: 2 X PSG 
-2: OPLL (Ym2314)
-3: OPL2 (Y8950 + APCM)
-4: SCC
-5: SN76489
+  1: 2 X PSG 
+  2: OPLL (Ym2314)
+  3: OPL2 (Y8950 + APCM)
+  4: SCC
+  5: SN76489
 
 other
 
