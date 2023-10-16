@@ -42,6 +42,7 @@ MIDI (ALL MIDI MSX)
 
 VLM5030
 
+ROM emulator (small game max 128KB)
 
 other
 
