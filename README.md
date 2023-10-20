@@ -24,7 +24,7 @@ Keyboard USB via SLOT ALL MSX
 
 FM synthesizers
 
-OPPL3/OPL4 (ymf278B + WAVE TABLE)
+OPL3/OPL4 (ymf278B + WAVE TABLE)
 
 OPNB
 
