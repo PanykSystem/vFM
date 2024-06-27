@@ -26,9 +26,7 @@ list audio FM function
 
 1 x SAA1099
 
-1 x SCC
-
-1 x SCC+
+1 x SCC / SCC+
 
 
 PCM
