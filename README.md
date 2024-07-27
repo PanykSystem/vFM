@@ -14,7 +14,7 @@ list audio FM function
 
 1 x OPLL (YM2413)
 
-1 x OPL2 + ADPCM 256KB RAM(Y8950)
+1 x OPL + ADPCM 256KB RAM(Y8950)
 
 1 x OPL3/OPL4 2MB ROM + 2MB RAM(YMF278B)
 
@@ -31,11 +31,15 @@ list audio FM function
 
 PCM
 
+1 x PPI PCM 1bit
 
-1 x TurboR PCM (beta)
+1 x TurboR PCM
 
-1 x Covox      (alfa)
+1 x Covox (LPT)
 
+1 x VOICEBOX (LPT)
+
+1 x +PCM (LPT)
 
 Midi
 
