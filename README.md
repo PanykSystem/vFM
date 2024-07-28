@@ -7,48 +7,48 @@
 to introduce universal audio card for MSX! In a single cartridge, I've included ALL the audio cards for MSX. It's currently in beta testing, but it will be available for everyone soon!
 
 
-list audio FM function
+__list audio FM function__
 
 
-2 x PSG	(YM2149)
+PSG	(YM2149) x2
 
-1 x OPLL (YM2413)
+OPLL (YM2413)
 
-1 x OPL + ADPCM 256KB RAM(Y8950)
+OPL + ADPCM 256KB RAM(Y8950)
 
-1 x OPL3/OPL4 2MB ROM + 2MB RAM(YMF278B)
+OPL3/OPL4 2MB ROM + 2MB RAM(YMF278B)
 
-1 x OPNA (YM2608) 8KB ROM 256K BRAM
+OPNA (YM2608) 8KB ROM 256K BRAM
 
-1 x OPM	(YM2151)
+OPM	(YM2151)
 
-1 x SN76489
+SN76489
 
-1 x SAA1099
+SAA1099
 
-1 x SCC / SCC+
-
-
-PCM
-
-1 x PPI PCM 1bit
-
-1 x TurboR PCM
-
-1 x Covox (LPT)
-
-1 x VOICEBOX (LPT)
-
-1 x +PCM (LPT)
-
-Midi
+SCC / SCC+
 
 
-1 x Midi Music module
+__PCM__
 
-1 x Midi MSX  (beta)
+PPI PCM 1bit
 
-1 x MIDI OCM
+TurboR PCM
+
+Covox (LPT)
+
+~~VOICEBOX (LPT)~~ (drop)
+
+~~+PCM (LPT)~~ (drop)
+
+__Midi__
+
+
+Midi Music module
+
+Midi MSX  (beta)
+
+MIDI OCM
 
 
 
