@@ -49,7 +49,7 @@ Midi Music module
 Midi MSX  (beta)
 
 MIDI OCM
-
+SAM2695 Synt Midi (chip)
 
 
 and many more in the future
