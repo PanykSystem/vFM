@@ -46,10 +46,18 @@ Midi MSX
 
 MIDI OCM
 
-Synt Midi (SAM2695)
+Synt Midi (chip SAM2695)
+
+__Control Volume__
+all FM / PCM
+
+__Control Stereo__
+ 
+Left / Right / Central / Mono / Mute
+ALL synth AUDIO
 
 
-and many more in the future
+And many more in the future
 
 
 P.S. all can play at the same time
