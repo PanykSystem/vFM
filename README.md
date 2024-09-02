@@ -18,7 +18,7 @@ OPL + ADPCM 256KB RAM(Y8950)
 
 OPL3/OPL4 2MB ROM + 2MB RAM(YMF278B)
 
-OPNA (YM2608) 8KB ROM 256K BRAM
+OPNA (YM2608) 8KB ROM 256K RAM
 
 OPM	(YM2151)
 
@@ -37,20 +37,16 @@ TurboR PCM
 
 Covox (LPT)
 
-~~VOICEBOX (LPT)~~ (drop)
-
-~~+PCM (LPT)~~ (drop)
-
 __Midi__
 
 
 Midi Music module
 
-Midi MSX  (beta)
+Midi MSX
 
 MIDI OCM
 
-SAM2695 Synt Midi (chip)
+Synt Midi (SAM2695)
 
 
 and many more in the future
