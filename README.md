@@ -49,12 +49,17 @@ MIDI OCM
 Synt Midi (chip SAM2695)
 
 __Control Volume__
+
 all FM / PCM
 
 __Control Stereo__
  
 Left / Right / Central / Mono / Mute
+
 ALL synth AUDIO
+
+
+
 
 
 And many more in the future
